@@ -1,0 +1,1 @@
+<?php echo "star.php included other.php"; ?>
